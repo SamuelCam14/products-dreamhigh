@@ -32,7 +32,7 @@ function renumberProductIds(products) {
 }
 
 // Ruta al archivo JSON de productos reordenados
-const reorderedProductsFilePath = path.join(__dirname, 'reordered_products.json');
+const reorderedProductsFilePath = path.join(__dirname, 'products.json');
 
 // Leer los productos reordenados
 const reorderedProducts = readJSONFile(reorderedProductsFilePath);
