@@ -47,7 +47,7 @@
     "id": 3,
     "nombre": "Air Jordan 5 'El Grito'",
     "imagen": "../Assets/Photos/Sneakers/Jordan5ElGrito/IMG_5545_1_11zon.webp",
-    "precio": "$7500.00",
+    "precio": "$6800.00",
     "descripcion": "Dedicado a quienes han hecho del barrio su cancha y de Jordan su bandera. Para quienes se rehúsan a mantener los pies sobre la tierra, porque saben que nacieron para volar.",
     "infoAdicional": [
       {
@@ -103,7 +103,7 @@
     "id": 6,
     "nombre": "Stars Black and Sloths",
     "imagen": "../Assets/Photos/Hats/cincosiete/blackStars/FullSizeRender_(28).webp",
-    "precio": "$1,100.00",
+    "precio": "$900.00",
     "descripcion": "¡Haz que tu estilo brille con la gorra 'Estrellas y Sueños'! Esta gorra única combina la serenidad de los perezosos, la magia de las estrellas y la energía vibrante de los corridos tumbados, creando una pieza que captura la esencia de lo relajado y lo dinámico.",
     "infoAdicional": [],
     "imagenes": [
@@ -120,7 +120,7 @@
     "id": 7,
     "nombre": "Sloth Sleep in the Tree",
     "imagen": "../Assets/Photos/Hats/cincosiete/cS/FullSizeRender_(31).webp",
-    "precio": "$1,100.00",
+    "precio": "$950.00",
     "descripcion": "¡Dale a tu estilo un toque único con nuestra gorra 'Ritmo Relajado'! Esta pieza exclusiva fusiona la energía vibrante de los corridos tumbados con la actitud relajada de los perezosos.",
     "infoAdicional": [],
     "imagenes": [
@@ -138,7 +138,7 @@
     "id": 8,
     "nombre": "Stars Golds and Sloths",
     "imagen": "../Assets/Photos/Hats/cincosiete/gold/FullSizeRender_(30).webp",
-    "precio": "$1,100.00",
+    "precio": "$950.00",
     "descripcion": "¡Haz que tu estilo brille! Esta gorra única combina la serenidad de los perezosos, la magia de las estrellas y la energía vibrante de los corridos tumbados, creando una pieza que captura la esencia de lo relajado y lo dinámico.",
     "infoAdicional": [],
     "imagenes": [
@@ -157,7 +157,7 @@
     "id": 9,
     "nombre": "The Sloth King",
     "imagen": "../Assets/Photos/Hats/cincosiete/goldenStars/FullSizeRender_(29).webp",
-    "precio": "$1,100.00",
+    "precio": "$900.00",
     "descripcion": "Llega la gorra que redefine el estilo tumbado y con un toque urbano inigualable! Inspirada en la tranquilidad de los perezosos y la energía contagiosa de los corridos tumbados, esta gorra es la mezcla perfecta de calma y actitud.",
     "infoAdicional": [],
     "imagenes": [
