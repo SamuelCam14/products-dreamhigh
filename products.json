@@ -3,7 +3,7 @@
     "id": 1,
     "nombre": "Jordan 4 Retro White Thunder",
     "imagen": "../Assets/Photos/Sneakers/Jordan4WhiteThunder/IMG_5546_1_11zon.webp",
-    "precio": "$7000.00",
+    "precio": "$7,000.00",
     "descripcion": "Esta edición ultralimpia de los Air Jordan 4 tiene los colores contrastantes icónicos de la edición de 2006 y suma un par de tenis sofisticados a tu colección Air Jordan. Se presentan envueltos en cuero nobuck negro con toques de blanco de muy buen gusto para ofrecer un look clásico fácil de combinar. Los 'White Thunder' están listos para la primera plana, ya sea que los uses para rendir un homenaje al legado duradero de MJ o para celebrar el 35.º aniversario de los AJ4.",
     "infoAdicional": [
       {
@@ -21,13 +21,14 @@
       "../Assets/Photos/Sneakers/Jordan4WhiteThunder/IMG_5549_3_11zon.webp"
     ],
     "linkCompra": "https://wa.me/message/M6VLN4VURGDIF1",
-    "stock": 1
+    "stock": 1,
+    "categoria": "sneakers"
   },
   {
     "id": 2,
     "nombre": "Air Jordan 1 Low OG 'Barons'",
     "imagen": "../Assets/Photos/Sneakers/Jordan1LowBarons/IMG_5553_1_11zon.webp",
-    "precio": "$4500.00",
+    "precio": "$4,500.00",
     "descripcion": "Rindiendo homenaje al 30 aniversario de la carrera de Michael Jordan en el beisbol, Jordan nos trae el nuevo AJ1 Low OG en su colorway 'Barons'. Combinando una piel lisa con detalles en negro, como guiño a los colores de su equipo, los Birmingham Barons. Los materiales premium y la gama de tonos clásica son un homenaje a Michael Jordan en el beisbol.",
     "infoAdicional": [
       {
@@ -41,13 +42,14 @@
       "../Assets/Photos/Sneakers/Jordan1LowBarons/IMG_5555_3_11zon.webp"
     ],
     "linkCompra": "https://wa.me/message/M6VLN4VURGDIF1",
-    "stock": 1
+    "stock": 1,
+    "categoria":  "sneakers"
   },
   {
     "id": 3,
     "nombre": "Air Jordan 5 'El Grito'",
     "imagen": "../Assets/Photos/Sneakers/Jordan5ElGrito/IMG_5545_1_11zon.webp",
-    "precio": "$6800.00",
+    "precio": "$6,800.00",
     "descripcion": "Dedicado a quienes han hecho del barrio su cancha y de Jordan su bandera. Para quienes se rehúsan a mantener los pies sobre la tierra, porque saben que nacieron para volar.",
     "infoAdicional": [
       {
@@ -61,7 +63,8 @@
       "../Assets/Photos/Sneakers/Jordan5ElGrito/IMG_5552_3_11zon.webp"
     ],
     "linkCompra": "https://wa.me/message/M6VLN4VURGDIF1",
-    "stock": 1
+    "stock": 1,
+    "categoria":  "sneakers"
   },
   {
     "id": 4,
@@ -79,7 +82,8 @@
       "../Assets/Photos/Hats/feather/fAngel/FullSizeRender(19).webp"
     ],
     "linkCompra": "https://wa.me/message/M6VLN4VURGDIF1",
-    "stock": 3
+    "stock": 3,
+    "categoria":  "gorras"
   },
   {
     "id": 5,
@@ -97,7 +101,8 @@
       "../Assets/Photos/Hats/feather/pinkAngel/FullSizeRender (23).webp"
     ],
     "linkCompra": "https://wa.me/message/M6VLN4VURGDIF1",
-    "stock": 3
+    "stock": 3,
+    "categoria":  "gorras"
   },
   {
     "id": 6,
@@ -114,7 +119,8 @@
       "../Assets/Photos/Hats/cincosiete/blackStars/FullSizeRender (16).webp"
     ],
     "linkCompra": "https://wa.me/message/M6VLN4VURGDIF1",
-    "stock": 2
+    "stock": 2,
+    "categoria":  "gorras"
   },
   {
     "id": 7,
@@ -132,7 +138,8 @@
       "../Assets/Photos/Hats/cincosiete/cS/FullSizeRender (11).webp"
     ],
     "linkCompra": "https://wa.me/message/M6VLN4VURGDIF1",
-    "stock": 2
+    "stock": 2,
+    "categoria":  "gorras"
   },
   {
     "id": 8,
@@ -151,7 +158,8 @@
       "../Assets/Photos/Hats/cincosiete/gold/FullSizeRender (5).webp"
     ],
     "linkCompra": "https://wa.me/message/M6VLN4VURGDIF1",
-    "stock": 2
+    "stock": 2,
+    "categoria":  "gorras"
   },
   {
     "id": 9,
@@ -168,7 +176,8 @@
       "../Assets/Photos/Hats/cincosiete/goldenStars/FullSizeRender (15).webp"
     ],
     "linkCompra": "https://wa.me/message/M6VLN4VURGDIF1",
-    "stock": 2
+    "stock": 2,
+    "categoria":  "gorras"
   },
   {
     "id": 10,
@@ -186,7 +195,8 @@
       "../Assets/New Religion/Modo Avion/Galery/FullSizeRender (13).webp"
     ],
     "linkCompra": "https://wa.me/message/M6VLN4VURGDIF1",
-    "stock": 1
+    "stock": 1,
+    "categoria":  "gorras"
   },
   {
     "id": 11,
@@ -204,7 +214,8 @@
       "../Assets/Clover/Tumbados Club/FullSizeRender (16).webp"
     ],
     "linkCompra": "https://wa.me/message/M6VLN4VURGDIF1",
-    "stock": 0
+    "stock": 0,
+    "categoria":  "gorras"
   },
   {
     "id": 12,
@@ -222,7 +233,8 @@
       "../Assets/Clover/LA Clover/FullSizeRender (23).webp"
     ],
     "linkCompra": "https://wa.me/message/M6VLN4VURGDIF1",
-    "stock": 0
+    "stock": 0,
+    "categoria":  "gorras"
   },
   {
     "id": 13,
@@ -240,7 +252,8 @@
       "../Assets/New Religion/Rich Man/Galery/FullSizeRender (28).webp"
     ],
     "linkCompra": "https://wa.me/message/M6VLN4VURGDIF1",
-    "stock": 0
+    "stock": 0,
+    "categoria":  "gorras"
   },
   {
     "id": 14,
@@ -257,7 +270,8 @@
       "../Assets/New Religion/Skull/Galery/FullSizeRender (7).webp"
     ],
     "linkCompra": "https://wa.me/message/M6VLN4VURGDIF1",
-    "stock": 0
+    "stock": 0,
+    "categoria":  "gorras"
   },
   {
     "id": 15,
@@ -274,7 +288,8 @@
       "../Assets/New Religion/LAV/Galery/FullSizeRender (32).webp"
     ],
     "linkCompra": "https://wa.me/message/M6VLN4VURGDIF1",
-    "stock": 0
+    "stock": 0,
+    "categoria":  "gorras"
   },
   {
     "id": 16,
@@ -292,7 +307,8 @@
       "../Assets/Clover/Clover Red Heart/FullSizeRender (34).webp"
     ],
     "linkCompra": "https://wa.me/message/M6VLN4VURGDIF1",
-    "stock": 0
+    "stock": 0,
+    "categoria":  "gorras"
   },
   {
     "id": 17,
@@ -310,7 +326,8 @@
       "../Assets/Clover/All Eyez On Me/FullSizeRender (28).webp"
     ],
     "linkCompra": "https://wa.me/message/M6VLN4VURGDIF1",
-    "stock": 0
+    "stock": 0,
+    "categoria":  "gorras"
   },
   {
     "id": 18,
@@ -328,7 +345,8 @@
       "../Assets/Clover/From Clover With Love/FullSizeRender (31).webp"
     ],
     "linkCompra": "https://wa.me/message/M6VLN4VURGDIF1",
-    "stock": 0
+    "stock": 0,
+    "categoria":  "gorras"
   },
   {
     "id": 19,
@@ -346,7 +364,8 @@
       "../Assets/New Religion/La People/Galery/FullSizeRender (23).webp"
     ],
     "linkCompra": "https://wa.me/message/M6VLN4VURGDIF1",
-    "stock": 3
+    "stock": 3,
+    "categoria":  "gorras"
   },
   {
     "id": 20,
@@ -363,7 +382,8 @@
       "../Assets/New Religion/LA47/Galery/FullSizeRender (9).webp"
     ],
     "linkCompra": "https://wa.me/message/M6VLN4VURGDIF1",
-    "stock": 2
+    "stock": 2,
+    "categoria":  "gorras"
   },
   {
     "id": 21,
@@ -380,7 +400,8 @@
       "../Assets/High Stakes/JGL/IMG_4768.webp"
     ],
     "linkCompra": "https://wa.me/message/M6VLN4VURGDIF1",
-    "stock": 1
+    "stock": 1,
+    "categoria":  "gorras"
   },
   {
     "id": 22,
@@ -397,7 +418,8 @@
       "../Assets/High Stakes/Risk Rich/IMG_4787.webp"
     ],
     "linkCompra": "https://wa.me/message/M6VLN4VURGDIF1",
-    "stock": 0
+    "stock": 0,
+    "categoria":  "gorras"
   },
   {
     "id": 23,
@@ -414,7 +436,8 @@
       "../Assets/High Stakes/Bipolar/IMG_4791.webp"
     ],
     "linkCompra": "https://wa.me/message/M6VLN4VURGDIF1",
-    "stock": 0
+    "stock": 0,
+    "categoria":  "gorras"
   },
   {
     "id": 24,
@@ -432,7 +455,8 @@
       "../Assets/High Stakes/Sinner Lover/IMG_4783.webp"
     ],
     "linkCompra": "https://wa.me/message/M6VLN4VURGDIF1",
-    "stock": 0
+    "stock": 0,
+    "categoria":  "gorras"
   },
   {
     "id": 25,
@@ -449,7 +473,8 @@
       "../Assets/MC/CT/FullSizeRender (9).webp"
     ],
     "linkCompra": "https://wa.me/message/M6VLN4VURGDIF1",
-    "stock": 0
+    "stock": 0,
+    "categoria":  "gorras"
   },
   {
     "id": 26,
@@ -466,7 +491,8 @@
       "../Assets/High Stakes/Café/Exportación/IMG_4657.webp"
     ],
     "linkCompra": "https://wa.me/message/M6VLN4VURGDIF1",
-    "stock": 0
+    "stock": 0,
+    "categoria":  "gorras"
   },
   {
     "id": 27,
@@ -483,7 +509,8 @@
       "../Assets/MC/LA Angel/FullSizeRender (13).webp"
     ],
     "linkCompra": "https://wa.me/message/M6VLN4VURGDIF1",
-    "stock": 0
+    "stock": 0,
+    "categoria":  "gorras"
   },
   {
     "id": 28,
@@ -500,7 +527,8 @@
       "../Assets/JC Hats/Spend Money Gray Blue/Exportación/IMG_4652.webp"
     ],
     "linkCompra": "https://wa.me/message/M6VLN4VURGDIF1",
-    "stock": 0
+    "stock": 0,
+    "categoria":  "gorras"
   },
   {
     "id": 29,
@@ -517,7 +545,8 @@
       "../Assets/High Stakes/All Eyez On Me - Black/IMG_4778.webp"
     ],
     "linkCompra": "https://wa.me/message/M6VLN4VURGDIF1",
-    "stock": 0
+    "stock": 0,
+    "categoria":  "gorras"
   },
   {
     "id": 30,
@@ -534,7 +563,8 @@
       "../Assets/JC Hats/Spend Money Beige Green/Exportación/IMG_4636.webp"
     ],
     "linkCompra": "https://wa.me/message/M6VLN4VURGDIF1",
-    "stock": 1
+    "stock": 1,
+    "categoria":  "gorras"
   },
   {
     "id": 31,
@@ -551,7 +581,8 @@
       "../Assets/JC Hats/Born to Spend Camuflage/IMG_4763.webp"
     ],
     "linkCompra": "https://wa.me/message/M6VLN4VURGDIF1",
-    "stock": 1
+    "stock": 1,
+    "categoria":  "gorras"
   },
   {
     "id": 32,
@@ -567,7 +598,8 @@
       "../Assets/JC Hats/Spend Money Green/Exportación/IMG_4643.webp"
     ],
     "linkCompra": "https://wa.me/message/M6VLN4VURGDIF1",
-    "stock": 0
+    "stock": 0,
+    "categoria":  "gorras"
   },
   {
     "id": 33,
@@ -584,7 +616,8 @@
       "../Assets/JC Hats/Born to Spend Malla Negra/IMG_4774.webp"
     ],
     "linkCompra": "https://wa.me/message/M6VLN4VURGDIF1",
-    "stock": 0
+    "stock": 0,
+    "categoria":  "gorras"
   },
   {
     "id": 34,
@@ -602,7 +635,8 @@
       "../Assets/High Stakes/Pantera Negra/Exportación/421AE486-71B9-4A44-ACF8-A8EF373E286C.webp"
     ],
     "linkCompra": "https://wa.me/message/M6VLN4VURGDIF1",
-    "stock": 0
+    "stock": 0,
+    "categoria":  "gorras"
   },
   {
     "id": 35,
@@ -619,7 +653,8 @@
       "../Assets/New Era/Checo Perez/Exportación/Inside.webp"
     ],
     "linkCompra": "https://wa.me/message/M6VLN4VURGDIF1",
-    "stock": 1
+    "stock": 1,
+    "categoria":  "gorras"
   },
   {
     "id": 36,
@@ -635,7 +670,8 @@
       "../Assets/New Era/Dodgers/Exportación/under.webp"
     ],
     "linkCompra": "https://wa.me/message/M6VLN4VURGDIF1",
-    "stock": 1
+    "stock": 1,
+    "categoria":  "gorras"
   },
   {
     "id": 37,
@@ -652,7 +688,8 @@
       "../Assets/New Era/NY Yankees/Red/Exportación/bottom.webp"
     ],
     "linkCompra": "https://wa.me/message/M6VLN4VURGDIF1",
-    "stock": 1
+    "stock": 1,
+    "categoria":  "gorras"
   },
   {
     "id": 38,
@@ -669,7 +706,8 @@
       "../Assets/New Era/NY Yankees/Black/Exportación/under 2-2.webp"
     ],
     "linkCompra": "https://wa.me/message/M6VLN4VURGDIF1",
-    "stock": 1
+    "stock": 1,
+    "categoria":  "gorras"
   },
   {
     "id": 39,
@@ -686,6 +724,7 @@
       "../Assets/New Era/Texas Rangers/Exportación/under 2.webp"
     ],
     "linkCompra": "https://wa.me/message/M6VLN4VURGDIF1",
-    "stock": 1
+    "stock": 1,
+    "categoria":  "gorras"
   }
 ]
