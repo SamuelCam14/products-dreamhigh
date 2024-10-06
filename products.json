@@ -67,6 +67,64 @@
     "categoria":  "sneakers"
   },
   {
+    "id": 40,
+    "nombre": "adidas Gazelle Indoor Bad Bunny",
+    "imagen": "../Assets/Photos/Sneakers/AdidasBenito/IMG_5782_5_11zon.webp",
+    "precio": "$4,500.00",
+    "descripcion": "Los adidas Gazelle Indoor Bad Bunny son un modelo novedoso y elegante que se ha agregado a la icónica línea Gazelle, con una combinación única de colores en blanco roto, negro y caramelo. Esta colaboración con el reconocido artista de reggaetón Bad Bunny le da un nuevo giro a la silueta clásica. La parte superior de estos sneakers es de color blanco roto con detalles negros y una suela en color caramelo que logra dar al diseño un aspecto versátil y moderno. El talón incluye la etiqueta con la talla, un toque exclusivo que distingue a este modelo.",
+    "infoAdicional": [
+      {
+        "talla": "7 MX",
+        "disponible": true
+      }
+    ],
+    "imagenes": [
+      "../Assets/Photos/Sneakers/AdidasBenito/IMG_5782_5_11zon.webp",
+      "../Assets/Photos/Sneakers/AdidasBenito/IMG_5783_1_11zon.webp",
+      "../Assets/Photos/Sneakers/AdidasBenito/IMG_5784_2_11zon.webp",
+      "../Assets/Photos/Sneakers/AdidasBenito/IMG_5785_3_11zon.webp"
+    ],
+    "linkCompra": "https://wa.me/message/M6VLN4VURGDIF1",
+    "stock": 1,
+    "categoria":  "sneakers"
+  },
+  {
+    "id": 41,
+    "nombre": "L.A.Miri Angels",
+    "imagen": "../Assets/Photos/Hats/endless/LA-MiriAngels/IMG_5713_3_11zon.webp",
+    "precio": "$900.00",
+    "descripcion": "Esta gorra edición limitada está diseñada para destacar. Confeccionada en un elegante y resistente color negro, presenta el icónico logotipo \"LA\" bordado en el centro del frente en un tono negro mate. En los costados, un bordado detallado de un ángel dorado con alas extendidas añade un toque celestial y único. El ángel sostiene un objeto, lo que aporta un contraste audaz entre lo divino y lo terrenal.",
+    "infoAdicional": [],
+    "imagenes": [
+      "../Assets/Photos/Hats/endless/LA-MiriAngels/IMG_5713_3_11zon.webp",
+      "../Assets/Photos/Hats/endless/LA-MiriAngels/FullSizeRender (5)_4_11zon.webp",
+      "../Assets/Photos/Hats/endless/LA-MiriAngels/FullSizeRender (6)_5_11zon.webp",
+      "../Assets/Photos/Hats/endless/LA-MiriAngels/FullSizeRender (7)_1_11zon.webp",
+      "../Assets/Photos/Hats/endless/LA-MiriAngels/FullSizeRender (8)_2_11zon.webp"
+    ],
+    "linkCompra": "https://wa.me/message/M6VLN4VURGDIF1",
+    "stock": 2,
+    "categoria":  "gorras"
+  },
+  {
+    "id": 42,
+    "nombre": "L.A Crosses",
+    "imagen": "../Assets/Photos/Hats/endless/LA-MiriCross/FullSizeRender_3_11zon.webp",
+    "precio": "$900.00",
+    "descripcion": "Esta gorra edición limitada está diseñada para destacar. Confeccionada en un elegante y resistente color negro, presenta el icónico logotipo \"LA\" bordado en el centro del frente en un tono negro mate. En los costados, un bordado detallado de un ángel dorado con alas extendidas añade un toque celestial y único. El ángel sostiene un objeto, lo que aporta un contraste audaz entre lo divino y lo terrenal.",
+    "infoAdicional": [],
+    "imagenes": [
+      "../Assets/Photos/Hats/endless/LA-MiriCross/FullSizeRender_3_11zon.webp",
+      "../Assets/Photos/Hats/endless/LA-MiriCross/FullSizeRender (3)_1_11zon.webp",
+      "../Assets/Photos/Hats/endless/LA-MiriCross/FullSizeRender (2)_5_11zon.webp",
+      "../Assets/Photos/Hats/endless/LA-MiriCross/FullSizeRender (1)_4_11zon.webp",
+      "../Assets/Photos/Hats/endless/LA-MiriCross/FullSizeRender (4)_2_11zon.webp"
+    ],
+    "linkCompra": "https://wa.me/message/M6VLN4VURGDIF1",
+    "stock": 2,
+    "categoria":  "gorras"
+  },
+  {
     "id": 4,
     "nombre": "Feather Paradise",
     "imagen": "../Assets/Photos/Hats/feather/fAngel/FullSizeRender_(32).webp",
